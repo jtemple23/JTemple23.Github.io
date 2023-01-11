@@ -7,6 +7,7 @@ I'm a Preconstruction Estimator currently living in Frisco, TX!
 - 🌱 I’m currently learning SQL & Tableau.
 - ⚡ Fun fact: I've visited 10/30 MLB stadiums with hopes to visit them all!
 - 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife!
+
 See below for my list of projects!
 
 ---
