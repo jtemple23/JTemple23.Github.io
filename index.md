@@ -9,6 +9,7 @@ I'm a Preconstruction Estimator currently living in Frisco, TX!
 - 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife!
 See below for my list of projects!
 
+---
 ### Projects
 
 #### [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
