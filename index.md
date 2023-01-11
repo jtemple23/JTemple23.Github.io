@@ -1,3 +1,15 @@
+### Hey! I'm Jordan 👋
+
+Welcome to my GitHub profile!
+I'm Jordan, a Preconstruction Estimator currently living in Frisco, TX
+
+- 🔭 I’m currently working on many different things in Avery Smith's Data Analytics Accelerator.
+- 🌱 I’m currently learning SQL.
+- ⚡ Fun fact: I've visited 10/30 MLB stadiums with hopes to visit them all!
+- 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, travel, and hang out with friends. 
+
+See below for my data analytics portfolio!
+
 # Data Analytics Portfolio
 ---
 
