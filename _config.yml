@@ -2,7 +2,7 @@ title: Jordan Temple # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data-driven Preconstruction Estimator
-  Atlanta Braves. LSU. Traveling.
+  Atlanta Braves. LSU. Traveling. <br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
