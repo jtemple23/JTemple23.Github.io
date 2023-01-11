@@ -1,8 +1,8 @@
 # Welcome to My Portfolio
 
 ---
-#### [DoorDash Project (Excel)](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [DoorDash Project (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
+[<img src="images/Door_Dash_Photo.jfif?raw=true"/>]
 For this project, I did a market analysis on DoorDash using Excel. 
 
 ---
