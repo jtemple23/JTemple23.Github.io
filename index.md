@@ -1,5 +1,7 @@
 # Welcome to My Portfolio
 
+#### Projects
+
 ---
 #### [DoorDash Project (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
 <img src="images/Door_Dash_Photo.jfif?raw=true"/>
