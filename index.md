@@ -3,7 +3,7 @@
 ---
 #### [DoorDash Project (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
 <img src="images/Door_Dash_Photo.jfif?raw=true"/>
-For this project, I did a market analysis on DoorDash using Excel to find trends the marketing department could use when running their next campaign. 
+For this project, I did a market analysis on DoorDash using Excel. The goal was to find trends in the provided data set to assist their marketing team in who to target on upcoming campaigns. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
