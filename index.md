@@ -3,7 +3,7 @@
 
 #### Projects
 
-#### [DoorDash Project (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
+#### [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
 <img src="images/Door_Dash_Photo.jfif?raw=true"/>
 For this project, I did a market analysis on DoorDash using Excel. The goal was to find trends in the provided data set to assist their marketing team with determining which demographic to target on future campaigns. 
 
@@ -25,7 +25,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [DoorDash Market Analysis Using Excel]([http://example.com/](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
