@@ -1,4 +1,4 @@
-## Hey everyone - I'm Jordan 👋
+### Hey everyone - I'm Jordan 👋
 
 Welcome to my GitHub profile!
 I'm Jordan, a Preconstruction Estimator currently living in Frisco, TX
