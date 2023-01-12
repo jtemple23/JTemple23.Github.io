@@ -15,7 +15,7 @@ See below for my list of data projects!
 
 #### [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/)
 <img src="images/Door_Dash_Photo.jfif?raw=true"/>
-For this project, I did a market analysis on DoorDash using Excel. The goal was to find trends in the provided data set to assist their marketing team with determining which demographic to target on future campaigns. 
+In this case study from Data Analytics Accelerator, I was prompted to do a market analysis on DoorDash customer data. The goal was to find trends in the provided data set to assist their marketing team with determining which demographic to target on future campaigns. 
 
 ---
 #### [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
