@@ -29,7 +29,7 @@ What are the top math schools in the state?
 
 ### Projects Listed
 
-- [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D))
+- [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D)
 - [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-jordan-temple-mba/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
