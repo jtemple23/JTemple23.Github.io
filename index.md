@@ -19,7 +19,7 @@ In this case study from Data Analytics Accelerator, I was prompted to do a marke
 
 ---
 #### [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-jordan-temple-mba/)
-[<img src="images/Massachusetts Education Analysis.png?raw=true"/>]
+<img src="images/Massachusetts Education Analysis.png?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
