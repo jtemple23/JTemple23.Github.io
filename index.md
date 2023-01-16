@@ -1,6 +1,6 @@
 ### Hey everyone - I'm Jordan 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub Pages!
 I'm a Preconstruction Estimator currently living in Frisco, TX!
 
 - 🔭 I’m currently working on many different things in Avery Smith's Data Analytics Accelerator.
