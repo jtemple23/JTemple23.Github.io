@@ -26,14 +26,20 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
+<img src="images/Massachusetts Education Analysis.png?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze financial data from The World Bank. The main focuses were:
+What are the 5 largest transactions from Nicaragua?
+How many transactions did Nicaragua perform?
+What is the average amount paid back to the bank by Nicaragua?
+
+---
 
 ### Projects Listed
 
 - [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D)
 - [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-jordan-temple-mba/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
 
 ---
 
