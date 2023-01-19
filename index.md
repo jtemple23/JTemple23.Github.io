@@ -27,7 +27,7 @@ What are the top math schools in the state?
 
 ---
 #### [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
-<img src="images/Massachusetts Education Analysis.png?raw=true"/>
+<img src="images/World_Bank.jpeg.jpeg?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze financial data from The World Bank. The main focuses were:
 What are the 5 largest transactions from Nicaragua?
 How many transactions did Nicaragua perform?
