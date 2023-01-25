@@ -34,7 +34,7 @@ How many transactions did Nicaragua perform?
 What is the average amount paid back to the bank by Nicaragua?
 
 ---
-#### [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/?published=t)
+#### [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/)
 <img src="images/healthcare_cover.png?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze healthcare patient data provided by a hospital's nursing director. The main focuses were:
 What is the distribution of time spent in the hospital by patients?
@@ -47,7 +47,7 @@ When patients are discharged, are they readmitted to the hospital in 30 days or 
 - [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D)
 - [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-jordan-temple-mba/)
 - [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
-- [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/?published=t)
+- [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/)
 
 ---
 
