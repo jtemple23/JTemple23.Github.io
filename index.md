@@ -34,6 +34,13 @@ How many transactions did Nicaragua perform?
 What is the average amount paid back to the bank by Nicaragua?
 
 ---
+#### [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/?published=t)
+<img src="images/healthcare_cover.png?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze healthcare patient data provided by a hospital's nursing director. The main focuses were:
+What is the distribution of time spent in the hospital by patients?
+Which department performs the most procedures on average?
+Do longer hospital stays correlate to more labs being done?
+When patients are discharged, are they readmitted to the hospital in 30 days or less?
 
 ### Projects Listed
 
