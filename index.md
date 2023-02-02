@@ -42,6 +42,16 @@ Which department performs the most procedures on average?
 Do longer hospital stays correlate to more labs being done?
 When patients are discharged, are they readmitted to the hospital in 30 days or less?
 
+---
+#### [NBA Analysis (Tableau)](https://www.linkedin.com/pulse/nba-analysis-using-tableau-jordan-temple-mba/)
+<img src="images/NBA.jpeg?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze healthcare patient data provided by a hospital's nursing director. The main focuses were:
+What is the distribution of time spent in the hospital by patients?
+Which department performs the most procedures on average?
+Do longer hospital stays correlate to more labs being done?
+When patients are discharged, are they readmitted to the hospital in 30 days or less?
+
+
 ### Projects Listed
 
 - [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D)
