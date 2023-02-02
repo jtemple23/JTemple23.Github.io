@@ -45,7 +45,7 @@ When patients are discharged, are they readmitted to the hospital in 30 days or 
 ---
 #### [NBA Analysis (Tableau)](https://www.linkedin.com/pulse/nba-analysis-using-tableau-jordan-temple-mba/)
 <img src="images/NBA.jpeg?raw=true"/>
-In this case study from Data Analytics Accelerator, I was prompted to analyze data from the 2021-2022 NBA season and provide the Dallas Mavericks with information they can use to improve in the future. The main focuses were:
+In this case study from Data Analytics Accelerator, I was prompted to analyze data from the 2021-2022 NBA season and provide the Dallas Mavericks with visual graphs/charts they can use to assist in decision making. The main focuses were:
 Who are some potential FA signings that we can target based on last seasons stats?
 What position has the highest 3-Pt shooting %?
 Who were the top scorers on each team?
