@@ -51,6 +51,8 @@ What position has the highest 3-Pt shooting %?
 Who were the top scorers on each team?
 What player has the most assists at each position?
 
+---
+
 ### Projects Listed
 
 - [DoorDash Market Analysis (Excel)](https://www.linkedin.com/pulse/doordash-market-analysis-using-excel-jordan-temple-mba/?trackingId=7nAhipoOZZK%2F0ONJ3W1mQA%3D%3D)
