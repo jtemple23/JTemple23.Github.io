@@ -45,12 +45,11 @@ When patients are discharged, are they readmitted to the hospital in 30 days or 
 ---
 #### [NBA Analysis (Tableau)](https://www.linkedin.com/pulse/nba-analysis-using-tableau-jordan-temple-mba/)
 <img src="images/NBA.jpeg?raw=true"/>
-In this case study from Data Analytics Accelerator, I was prompted to analyze healthcare patient data provided by a hospital's nursing director. The main focuses were:
-What is the distribution of time spent in the hospital by patients?
-Which department performs the most procedures on average?
-Do longer hospital stays correlate to more labs being done?
-When patients are discharged, are they readmitted to the hospital in 30 days or less?
-
+In this case study from Data Analytics Accelerator, I was prompted to analyze data from the 2021-2022 NBA season and provide the Dallas Mavericks with information they can use to improve in the future. The main focuses were:
+Who are some potential FA signings that we can target based on last seasons stats?
+What position has the highest 3-Pt shooting %?
+Who were the top scorers on each team?
+What player has the most assists at each position?
 
 ### Projects Listed
 
@@ -58,6 +57,7 @@ When patients are discharged, are they readmitted to the hospital in 30 days or 
 - [Massachusetts Education Analysis (Tableau)](https://www.linkedin.com/pulse/massachusetts-education-analysis-jordan-temple-mba/)
 - [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
 - [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/)
+- [NBA Analysis (Tableau)](https://www.linkedin.com/pulse/nba-analysis-using-tableau-jordan-temple-mba/)
 
 ---
 
