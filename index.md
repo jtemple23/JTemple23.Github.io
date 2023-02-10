@@ -52,6 +52,15 @@ Who were the top scorers on each team?
 What player has the most assists at each position?
 
 ---
+#### [Mining Data Analysis (Python)](https://www.linkedin.com/pulse/analyzing-mining-data-using-python-jordan-temple-mba/)
+<img src="images/mining_photo.jpg?raw=true"/>
+In this case study from Data Analytics Accelerator, I'm working as a data analyst for Metals 'R' Us. They've provided me with data from one of their flotation plants and have asked me to provide answers to several business questions and to provide them with additional data. The main focuses were:
+Can we provide the Count, Mean, Median, and Min/Max for every column in the data set?
+Was there an unnatural occurrence in the sample collection process on 6.1.2017?
+Is there any correlation/relationship between the variables we found?
+Is there a change in the Amina Flow throughout the day? Are there other variables that we can present on?
+
+---
 
 ### Projects Listed
 
@@ -60,6 +69,7 @@ What player has the most assists at each position?
 - [World Bank Analysis (SQL)](https://www.linkedin.com/pulse/world-bank-analysis-using-sql-jordan-temple-mba/)
 - [Healthcare Analysis (SQL)](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-jordan-temple-mba/)
 - [NBA Analysis (Tableau)](https://www.linkedin.com/pulse/nba-analysis-using-tableau-jordan-temple-mba/)
+- [Mining Data Analysis (Python)](https://www.linkedin.com/pulse/analyzing-mining-data-using-python-jordan-temple-mba/)
 
 ---
 
