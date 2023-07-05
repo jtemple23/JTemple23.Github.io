@@ -4,7 +4,7 @@ Welcome to my data portfolio!
 I'm a Sr Financial Analyst currently living in Frisco, TX!
 
 - 🔭 Graduate of Avery Smith's Data Analytics Accelerator.
-- 🌱 I’m currently learning SQL & Power BI.
+- 🌱 I’m currently refining my SQL & Power BI skills. 
 - ⚡ Fun fact: I've visited 10/30 MLB stadiums with hopes to visit them all!
 - 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife!
 
