@@ -1,10 +1,10 @@
 ### Hey everyone - I'm Jordan 👋
 
 Welcome to my data portfolio!
-I'm a Preconstruction Estimator currently living in Frisco, TX!
+I'm a Sr Financial Analyst currently living in Frisco, TX!
 
-- 🔭 I’m currently working on many different things in Avery Smith's Data Analytics Accelerator.
-- 🌱 I’m currently learning SQL & Tableau.
+- 🔭 Graduate of Avery Smith's Data Analytics Accelerator.
+- 🌱 I’m currently learning SQL & Power BI.
 - ⚡ Fun fact: I've visited 10/30 MLB stadiums with hopes to visit them all!
 - 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife!
 
