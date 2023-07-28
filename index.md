@@ -1,7 +1,7 @@
 ### Hey everyone - I'm Jordan 👋
 
 Welcome to my data portfolio!
-I'm a Sr Financial Analyst currently living in Frisco, TX!
+I'm a Sr Financial Analyst @ Extenet.
 
 - 🔭 Graduate of Avery Smith's Data Analytics Accelerator.
 - 🌱 I’m currently refining my SQL & Power BI skills. 
