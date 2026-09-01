@@ -1,12 +1,12 @@
 ### Hey everyone - I'm Jordan 👋
 
 Welcome to my data portfolio!
-I'm a Sr Financial Analyst @ Extenet.
+I'm a Business Analyst II at Taylor Morrison.
 
 - 🔭 Graduate of Avery Smith's Data Analytics Accelerator.
 - 🌱 I’m currently refining my SQL & Power BI skills. 
-- ⚡ Fun fact: I've visited 10/30 MLB stadiums with hopes to visit them all!
-- 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife!
+- ⚡ Fun fact: I've visited 12/30 MLB stadiums with hopes to visit them all!
+- 🎈 In my free time, I like to watch baseball (Go Braves), college football (Geaux Tigers), cook/grill, and travel with my wife and daughter!
 
 See below for my list of data projects!
 
